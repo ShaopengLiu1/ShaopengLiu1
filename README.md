@@ -13,14 +13,14 @@
 
 ### :trophy: Selected projects:
 - Knowledge graph and graph-based genomic data science:
-  1. [MetagenomicKG](https://www.biorxiv.org/content/10.1101/2024.03.14.585056v1.full.pdf): construction of a metagenomic-specific knowledge graph and how it can be used for metagenomic data mining.
+  1. [MetagenomicKG](https://github.com/KoslickiLab/MetagenomicKG): construction of a metagenomic-specific knowledge graph and how it can be used for metagenomic data mining. 
   2. [ARAX](https://academic.oup.com/bioinformatics/article/39/3/btad082/7031241): a knowledge-graph-based computational reasoning tool for translational biomedicine.
 - Metagenomic analysis and algorithm development:
-  1. [CMash](https://academic.oup.com/bioinformatics/article/38/Supplement_1/i28/6617499): a modified containment MinHash algorithm for multi-resolution k-mer-based similarity estimation.
-  2. [FracMinHash vs Syncmer](https://www.biorxiv.org/content/10.1101/2023.11.09.566463): bridging the FracMinHash algorithm with syncmers for metagenomic analysis.
-  3. [FracMinHash for functional profiling](https://www.biorxiv.org/content/10.1101/2023.11.06.565843v1): utilization of the FracMinHash algorithm for metagenomic functional profiles.
+  1. [CMash](https://github.com/KoslickiLab/CMASH-reproducibles?tab=readme-ov-file): a modified containment MinHash algorithm for multi-resolution k-mer-based similarity estimation.
+  2. [FracMinHash vs Syncmer](https://github.com/KoslickiLab/FMH_vs_syncmer_reproducible): bridging the FracMinHash algorithm with syncmers for metagenomic analysis.
+  3. [FracMinHash for functional profiling](https://github.com/KoslickiLab/fmh-funprofiler): utilization of the FracMinHash algorithm for metagenomic functional profiles.
 - Genomic data analysis
-  1. [AIAP](https://www.sciencedirect.com/science/article/pii/S1672022921001479): an integrative pipeline for comprehensive analysis of ATAC-seq dataset implemented in Docker and Singularity.
+  1. [AIAP](https://github.com/Zhang-lab/ATAC-seq_QC_analysis): an integrative pipeline for comprehensive analysis of ATAC-seq dataset implemented in Docker and Singularity.
 
 
 ### :hammer_and_pick: Tech stack
