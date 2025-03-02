@@ -1,14 +1,15 @@
 ## Hi there, welcome to my GitHub 👋
 
 ### :monkey_face: About me
-- Ph.D. candidate in Dr. David Koslicki's lab, Penn State University
-- Domain: Bioinformatics, Metagenomics, Genomics data science
-- Email: spliu@psu.edu
+- Ph.D. in Bioinformatics & Genomics in Dr. David Koslicki's lab, Penn State University
+- Domain: Bioinformatics, Metagenomics, Knowledge Graphs, Genomics data science
+- Email: sp.liu.psu@outlook.com
 - [Resume](https://shaopengliu1.github.io/resume/Resume_shaopeng.pdf)
 
 ### :honeybee: Currently working on
 - Metagenomic analysis and method development
-- Knowledge graph and graph learning
+- Knowledge graph and graph learning in genomic data science
+- Genomic applications with large language models
 
 
 ### :trophy: Selected projects:
