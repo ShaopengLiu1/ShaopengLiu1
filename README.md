@@ -17,9 +17,10 @@
   1. [MetagenomicKG](https://github.com/KoslickiLab/MetagenomicKG): construction of a metagenomic-specific knowledge graph and how it can be used for metagenomic data mining. 
   2. [ARAX](https://academic.oup.com/bioinformatics/article/39/3/btad082/7031241): a knowledge-graph-based computational reasoning tool for translational biomedicine.
 - Metagenomic analysis and algorithm development:
-  1. [CMash](https://github.com/KoslickiLab/CMASH-reproducibles?tab=readme-ov-file): a modified containment MinHash algorithm for multi-resolution k-mer-based similarity estimation.
-  2. [FracMinHash vs Syncmer](https://github.com/KoslickiLab/FMH_vs_syncmer_reproducible): bridging the FracMinHash algorithm with syncmers for metagenomic analysis.
-  3. [FracMinHash for functional profiling](https://github.com/KoslickiLab/fmh-funprofiler): utilization of the FracMinHash algorithm for metagenomic functional profiles.
+  1. [Analysis of metagenomic data](https://www.nature.com/articles/s43586-024-00376-6): a comprehensive review for metagenomic analysis.  
+  2. [CMash](https://github.com/KoslickiLab/CMASH-reproducibles?tab=readme-ov-file): a modified containment MinHash algorithm for multi-resolution k-mer-based similarity estimation.
+  3. [FracMinHash vs Syncmer](https://github.com/KoslickiLab/FMH_vs_syncmer_reproducible): bridging the FracMinHash algorithm with syncmers for metagenomic analysis.
+  4. [FracMinHash for functional profiling](https://github.com/KoslickiLab/fmh-funprofiler): utilization of the FracMinHash algorithm for metagenomic functional profiles.
 - Genomic data analysis
   1. [AIAP](https://github.com/Zhang-lab/ATAC-seq_QC_analysis): an integrative pipeline for comprehensive analysis of ATAC-seq dataset implemented in Docker and Singularity.
 
